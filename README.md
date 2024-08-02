@@ -1,6 +1,5 @@
 # Hi there, I'm Laiba Rani 👋
 
-![Profile Banner](path/to/your/banner_image.png)
 
 I am a data analyst with experience in **Excel**, **Power BI**, **Python**, and **SQL**. Passionate about data visualization and analysis, I enjoy turning complex data into actionable insights. Welcome to my GitHub profile!
 
@@ -13,17 +12,17 @@ I am a data analyst with experience in **Excel**, **Power BI**, **Python**, and 
 ## 📈 Featured Projects
 Here are some of the projects I have worked on:
 
+### Urban Cart Sales Analysis
+![Blinkit Sales Analysis Dashboard](path/to/urban_cart_sales_dashboard.png)
+- **Description**: Conducted a comprehensive sales analysis for Blinkit.
+- **Tools Used**: Excel, Power BI and Power Point
+- [View Project](https://github.com/Laiba-101/BLINKIT-SALES-ANALYSIS-POWER-BI)
+  
 ### Big Mart Sales Analysis
 ![Big Mart Sales Dashboard](path/to/big_mart_sales_dashboard.png)
 - **Description**: Analyzed Big Mart's sales data to identify trends and insights.
-- **Tools Used**: Excel, Power BI, Python, SQL
+- **Tools Used**: Excel and Power BI
 - [View Project](https://github.com/yourusername/big-mart-sales-analysis)
-
-### Urban Cart Sales Analysis
-![Urban Cart Sales Dashboard](path/to/urban_cart_sales_dashboard.png)
-- **Description**: Conducted a comprehensive sales analysis for Urban Cart.
-- **Tools Used**: Excel, Power BI, Python, SQL
-- [View Project](https://github.com/yourusername/urban-cart-sales-analysis)
 
 ### Customer Personality Analysis
 ![Customer Personality Analysis](path/to/customer_personality_analysis.png)
@@ -34,26 +33,25 @@ Here are some of the projects I have worked on:
 ### Chicago Crime Analysis
 ![Chicago Crime Analysis](path/to/chicago_crime_analysis.png)
 - **Description**: Analyzed crime data in Chicago to identify patterns and trends.
-- **Tools Used**: Excel, Power BI, Python, SQL
+- **Tools Used**: Excel and Power BIL
 - [View Project](https://github.com/yourusername/chicago-crime-analysis)
 
 ### Social Buzz Content Analysis
 ![Social Buzz Content Analysis](path/to/social_buzz_content_analysis.png)
 - **Description**: Analyzed social media content to understand trends and sentiments.
-- **Tools Used**: Excel, Power BI, Python, SQL
+- **Tools Used**: Excel, Power BI, Powerpoint
 - [View Project](https://github.com/yourusername/social-buzz-content-analysis)
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/laiba-rani-577b75262/)
+- [Email](mailto:raolaiba68@gnail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me.
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laiba-101&show_icons=true&locale=en&layout=compact" alt="laiba-101" /></p>
+
 
