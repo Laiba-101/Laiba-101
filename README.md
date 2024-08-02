@@ -1,5 +1,7 @@
 # Hi there, I'm Laiba Rani 👋
 
+![bg](https://github.com/user-attachments/assets/9399f620-51ca-4bd5-8c1b-2ee453edfb50)
+
 
 I am a skilled data analyst proficient in **Excel**, **Power BI**, **Python**, and SQL. With a passion for data visualization and analysis, I specialize in transforming complex datasets into actionable insights. I thrive on uncovering trends and patterns to drive strategic decision-making. Welcome to my GitHub profile!
 
